@@ -1,7 +1,7 @@
 # What do vegetarians talk about? Finding most discussed topics
 
 # Abstract
-For the NLP (Natural Language Processing) project, I wanted to find out about what are the most common topics discussed among vegetarians. In the hope of finding a number of different topics, I would like to rank topics from most discussed to least discussed. By looking deep into these topics, I hope to gain greater insight as to what are most important things to remember and frequent controverisal topics that vegetarians vs non-vegetarians argue about. As a result, by finding out these topics, I would uncover themes are always important to vegetarians.
+For the NLP (Natural Language Processing) project, I wanted to find out about what are the most common topics discussed among vegetarians. In the hope of finding a number of different topics, I would like to rank topics from most discussed to least discussed. By looking deep into these topics, I hope to gain greater insight as to what are most important things to remember and frequent controverisal topics that vegetarians vs non-vegetarians argue about. As a result, with greater insight gained from exploration, I would uncover themes that are always important to vegetarians.
 
 # Design
 Datasets are found in Twitter. I retrieved about 40K dataset by scrapping from the website. By using NLP and vectorization techniques, I wanted to figure out which topics that are always discussed on Twitter and find what are the subcategories of each topic. There are always common and frequent words associated with the topic and so by analyzing these words I hope to figure out the over-arching themes. 
