@@ -1,5 +1,5 @@
-From the dataset I found from Kaggle, I wanted to figure out subgenres for horror movies from IMSDB. There are many subgenres in horror movies such as gothic, sci-fi, animal theme, and thrill. Using NLP, I was able to gain new insight into these genres and deep dive into which movies belonged to which subgenre.
+From the dataset I found from Twitter, I wanted to figure out subgenres for each topics for vegetarians. There are many subgenres in horror movies such as food choices, lifestyle, animal theme, and organic materials. Using NLP, I was able to gain new insight into these genres and deep dive into what common words are shown many times over time and belonged to which subgenre.
 
-Below is word cluster for the first three movie topics. 
+Below is a word cluster for the first three topics. 
 
-<img width="351" alt="Screen Shot 2021-11-08 at 9 55 53 PM" src="https://user-images.githubusercontent.com/86501110/140870266-6ac9582e-cc2f-43f1-9dad-bb066ef4b5a1.png">
+![Picture1](https://user-images.githubusercontent.com/86501110/141520976-e2479414-7d94-4664-b8a6-e75e829aad07.jpg)
